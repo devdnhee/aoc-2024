@@ -1,0 +1,12 @@
+{
+  "name": "aoc-2024",
+  "version": "1.0.0",
+  "description": "solutions for Advent of Code 2024",
+  "license": "ISC",
+  "author": "Dorian Van den Heede",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
