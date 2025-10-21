@@ -1,5 +1,4 @@
 import { readFile } from "fs/promises";
-import { diff } from "util";
 
 async function parseInputFromFile(filePath) {
     const text = (await readFile(filePath, "utf-8")).trim();
